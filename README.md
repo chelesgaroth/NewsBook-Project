@@ -8,3 +8,6 @@ Projeto realizado no âmbito da Unidade Curricular de Laboratórios de Informát
 * [Carolina Santejo](https://github.com/CarolinaSantejo)
 * [Raquel Costa](https://github.com/chelesgaroth)
 * [Sara Marques](https://github.com/haz145)
+
+
+![alt text](https://github.com/chelesgaroth/NewsBook-Project/blob/main/Fase%201/takingctrl.png)
