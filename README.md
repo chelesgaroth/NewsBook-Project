@@ -3,6 +3,7 @@ Projeto realizado no âmbito da Unidade Curricular de Laboratórios de Informát
 
 ![alt text](https://github.com/chelesgaroth/NewsBook-Project/blob/main/Fase%201/Logo8.png)
 
+Nota Final: 16
 ## Authors
 * Ana Filipa Pereira
 * [Carolina Santejo](https://github.com/CarolinaSantejo)
